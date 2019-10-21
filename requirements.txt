@@ -14,7 +14,7 @@ Django==2.0.11
 docker==3.7.0
 docker-pycreds==0.4.0
 docutils==0.14
-ecdsa==0.13
+ecdsa==0.13.3
 future==0.17.1
 idna==2.8
 ikp3db==1.1.4
